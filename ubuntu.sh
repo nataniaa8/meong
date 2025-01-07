@@ -11,12 +11,12 @@
 #  `--'    `--'  `--'      `--'      `--' `--' `--'  `--'     `--'      `-' `--'
 
 echo "=============================================="
-echo "   🦋 Welcome to Natania's Automation 🦋   "
+echo "   🦋 Welcome to Intania's Automation 🦋   "
 echo "=============================================="
 
 echo "Configuring Ubuntu Server"
 
-# Manambahkan Repository
+# Menambahkan Repository
 cat <<EOF > /etc/apt/sources.list
 deb http://kartolo.sby.datautama.net.id/ubuntu/ focal main restricted universe multiverse
 deb http://kartolo.sby.datautama.net.id/ubuntu/ focal-updates main restricted universe multiverse
